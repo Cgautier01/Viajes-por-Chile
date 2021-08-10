@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: 'Amatic SC', cursive;
+    font-size:x-large; 
+}
+
+h3 {
+    text-align: center;
+    color: white
+}
+
+.oscuro {
+    background :black;
+}
+
+.info {
+    padding: 2rem 0rem;
+}
+
+p {
+    color: white;
+ }
+
+ .fondo {
+     background-color: black;
+ }
+
+ hr {
+     color: rgb(24, 226, 253);
+ }
+
+
+nav {
+    z-index: 100;
+}
+
+.px-6 {
+    padding-right: 17rem!important;
+    padding-left: 17rem!important;
+}   
